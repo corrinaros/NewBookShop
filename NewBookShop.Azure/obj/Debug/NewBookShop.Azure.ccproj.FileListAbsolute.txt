@@ -1,0 +1,2 @@
+H:\Advanced Internet Technologies\NewBookShop\NewBookShop.Azure\bin\Debug\ServiceConfiguration.cscfg
+H:\Advanced Internet Technologies\NewBookShop\NewBookShop.Azure\bin\Debug\ServiceDefinition.csdef
